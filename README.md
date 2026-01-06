@@ -1,7 +1,12 @@
-<h1 align="center">Xin chào 👋, mình là Hòa, Mobile developer 🦊</h1>
 
 <p align="center">
-  <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Hà Nội</em>
+  <img src="https://github.com/hwadev" width="140" style="border-radius:50%" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Hoa 🦊</h1>
+
+<p align="center">
+  <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Sống tại Hà Nội</em>
 </p>
 
 <p align="center">
