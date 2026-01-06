@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Hi 👋 I'm Hoa, a mobile developer </h1>
+<h1 align="center"Hi 👋 I'm Hoa, a mobile developer </h1>
 
 <p align="center">
   <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Sống tại Hà Nội</em>
